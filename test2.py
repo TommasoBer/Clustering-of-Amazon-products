@@ -1,0 +1,1 @@
+print('Ciao Mamma Nuovo Lavoro è dura ma ce la farò non voglio vivere così lo faccio per cambiare tutto mi piace sognare')
